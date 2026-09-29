@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+output/
+.venv/
+output-full/
+comparison/
+comparison-full/
+baseline-rerun/
+comparison-full/
+new-figures/
+fresh-quick/
+fresh-full/
